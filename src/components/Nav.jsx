@@ -2,9 +2,14 @@ import React from 'react'
 
 const Nav = () => {
   return (
-    <div>
-      
-    </div>
+  <header>
+    <nav>
+      <ul>
+        <li><Link to></Link></li>
+        <li></li>
+      </ul>
+    </nav>
+  </header> 
   )
 }
 
