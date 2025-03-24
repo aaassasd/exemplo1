@@ -1,4 +1,4 @@
-import React from "./components/Contador"
+import Contador from "./components/Contador"
 function App() {
 
   return (
